@@ -1,7 +1,7 @@
 {
-  "short_name": "PadiSwap",
-  "name": "PadiSwap",
-  "description": "Multi-Chain AMM and Yield Farm With Innovative Features. On #Fantom",
+  "short_name": "GTPSFANTOM",
+  "name": "GTPS FANTOM SWAP",
+  "description": "Global Transaction Payment Solution Swap on Fantom.",
   "icons": [
     {
       "src": "images/favicon.ico",
@@ -12,5 +12,5 @@
   "start_url": "",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#0D0BB1"
 }
